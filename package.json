@@ -1,0 +1,17 @@
+{
+  "name": "three-playground",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "dat.gui": "^0.7.5",
+    "run-with-fps": "^1.0.4",
+    "three": "^0.101.1"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.11.0"
+  },
+  "scripts": {
+    "start": "parcel index.html --open"
+  }
+}
